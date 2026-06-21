@@ -1,16 +1,3 @@
-header {
-    background-color: #46160e;
-    color: #FFFFFF;
-    text-align: center;
-    max-width: 800px;
-    margin: 0 auto;
-    border: 5px solid #FFFFFF;
-}
-
-main {
-    background-color: #FFFFFF;
-    color: #631d18;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 16px;
+.cab {
+    background-color: rgb(190, 48, 155);
 }
