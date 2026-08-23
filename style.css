@@ -4,13 +4,13 @@
     background-color: rgb(190, 48, 155);
 
 }
-.div {
+div {
     display: block;
     align-items: center;
     justify-content: center;
     text-align: center;
 }
-.img {
+img {
     width: 30px;
     height: 30px;
 }
